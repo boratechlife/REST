@@ -1,0 +1,62 @@
+[
+  {
+    "study_id": "GS-US-384-1943",
+    "datatype": "BIOMARKER"
+  },
+  {
+    "study_id": "GS-US-384-1944",
+    "datatype": "BIOMARKER"
+  },
+  {
+    "study_id": "GS-US-223-1015",
+    "datatype": "BIOMARKER"
+  },
+  {
+    "study_id": "GS-US-418-3898 (Cohort B)",
+    "datatype": "GENE_EXPRESSION"
+  },
+  {
+    "study_id": "GLPG0634-CL-211",
+    "datatype": "BIOMARKER"
+  },
+  {
+    "study_id": "GLPG0634-CL-223",
+    "datatype": "BIOMARKER"
+  },
+  {
+    "study_id": "GS-US-417-0303",
+    "datatype": "GENE_EXPRESSION"
+  },
+  {
+    "study_id": "GS-US-417-0302",
+    "datatype": "GENE_EXPRESSION"
+  },
+  {
+    "study_id": "GS-US-389-2024",
+    "datatype": "GENE_EXPRESSION"
+  },
+  {
+    "study_id": "GS-US-417-0301",
+    "datatype": "BIOMARKER"
+  },
+  {
+    "study_id": "GS-US-418-3898 (Cohort A)",
+    "datatype": "BIOMARKER"
+  },
+  {
+    "study_id": "GS-US-389-2021",
+    "datatype": "GENE_EXPRESSION"
+  },
+  {
+    "study_id": "GS-US-454-4378",
+    "datatype": "BIOMARKER"
+  },
+  {
+    "study_id": "GS-US-389-2022",
+    "datatype": "BIOMARKER"
+  },
+  {
+    "study_id": "GS-US-321-0106",
+    "datatype": "BIOMARKER"
+  }
+]

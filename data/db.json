@@ -1,0 +1,545 @@
+{
+  "study-data": [
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Crohn's Disease",
+      "study_id": "GLPG0634-CL-211",
+      "study_name": "Fitzroy FIL CD Trial (Ph. 2)",
+      "num_subj_with_gene_exp": 101,
+      "num_subj_with_pathway_exp": 101,
+      "num_subj_with_biomarkers": 163,
+      "study_has_diff_exp": true,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 174
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Ankylosing Spondylitis",
+      "study_id": "GLPG0634-CL-223",
+      "study_name": "TORTUGA FIL AS Trial (Ph. 2)",
+      "num_subj_with_gene_exp": 107,
+      "num_subj_with_pathway_exp": 107,
+      "num_subj_with_biomarkers": 109,
+      "study_has_diff_exp": true,
+      "study_has_pathway_diff_exp": true,
+      "num_subj_total": 116
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Diabetic Kidney Disease",
+      "study_id": "GS-US-223-1015",
+      "study_name": "SEL DKD (Ph. 2)",
+      "num_subj_with_gene_exp": 0,
+      "num_subj_with_pathway_exp": 0,
+      "num_subj_with_biomarkers": 333,
+      "study_has_diff_exp": false,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 333
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Ulcerative Colitis",
+      "study_id": "GS-US-418-3898 (Cohort A)",
+      "study_name": "FIL UC (Ph.3)",
+      "num_subj_with_gene_exp": 547,
+      "num_subj_with_pathway_exp": 547,
+      "num_subj_with_biomarkers": 545,
+      "study_has_diff_exp": true,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 547
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Ulcerative Colitis",
+      "study_id": "GS-US-418-3898 (Cohort B)",
+      "study_name": "FIL UC (Ph.3)",
+      "num_subj_with_gene_exp": 539,
+      "num_subj_with_pathway_exp": 539,
+      "num_subj_with_biomarkers": 538,
+      "study_has_diff_exp": true,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 539
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Cutaneous Lupus Erythematosus",
+      "study_id": "GS-US-436-4092",
+      "study_name": "4092 CLE Trial (Ph. 2)",
+      "num_subj_with_gene_exp": 55,
+      "num_subj_with_pathway_exp": 0,
+      "num_subj_with_biomarkers": 0,
+      "study_has_diff_exp": false,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 55
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Sjogren's Syndrome",
+      "study_id": "GS-US-445-4189",
+      "study_name": "4185 SjS Trial (Ph. 2)",
+      "num_subj_with_gene_exp": 143,
+      "num_subj_with_pathway_exp": 0,
+      "num_subj_with_biomarkers": 0,
+      "study_has_diff_exp": false,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 143
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Nonalcoholic Steatohepatitis",
+      "study_id": "GS-US-454-4378",
+      "study_name": "ATLAS NASH Combo Trial (Ph. 2)",
+      "num_subj_with_gene_exp": 338,
+      "num_subj_with_pathway_exp": 338,
+      "num_subj_with_biomarkers": 378,
+      "study_has_diff_exp": true,
+      "study_has_pathway_diff_exp": true,
+      "num_subj_total": 392
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Nonalcoholic Steatohepatitis",
+      "study_id": "GS-US-321-0105",
+      "study_name": "SIM F3 NASH Trial (Ph. 2)",
+      "num_subj_with_gene_exp": 56,
+      "num_subj_with_pathway_exp": 56,
+      "num_subj_with_biomarkers": 186,
+      "study_has_diff_exp": true,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 214
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Nonalcoholic Steatohepatitis",
+      "study_id": "GS-US-321-0106",
+      "study_name": "SIM F4 NASH Trial (Ph. 2)",
+      "num_subj_with_gene_exp": 41,
+      "num_subj_with_pathway_exp": 41,
+      "num_subj_with_biomarkers": 216,
+      "study_has_diff_exp": true,
+      "study_has_pathway_diff_exp": true,
+      "num_subj_total": 247
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Nonalcoholic Steatohepatitis",
+      "study_id": "GS-US-384-1943",
+      "study_name": "STELLAR3 SEL F3 NASH Trial (Ph. 3)",
+      "num_subj_with_gene_exp": 631,
+      "num_subj_with_pathway_exp": 631,
+      "num_subj_with_biomarkers": 801,
+      "study_has_diff_exp": true,
+      "study_has_pathway_diff_exp": true,
+      "num_subj_total": 801
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Nonalcoholic Steatohepatitis",
+      "study_id": "GS-US-384-1944",
+      "study_name": "STELLAR4 SEL F4 NASH Trial (Ph. 3)",
+      "num_subj_with_gene_exp": 766,
+      "num_subj_with_pathway_exp": 766,
+      "num_subj_with_biomarkers": 876,
+      "study_has_diff_exp": true,
+      "study_has_pathway_diff_exp": true,
+      "num_subj_total": 876
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Rheumatoid Arthritis",
+      "study_id": "GS-US-417-0301",
+      "study_name": "FINCH1 FIL MTX-IR RA Trial (Ph.3)",
+      "num_subj_with_gene_exp": 559,
+      "num_subj_with_pathway_exp": 559,
+      "num_subj_with_biomarkers": 584,
+      "study_has_diff_exp": true,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 1755
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Rheumatoid Arthritis",
+      "study_id": "GS-US-417-0302",
+      "study_name": "FINCH2 RA Trial (Ph. 3)",
+      "num_subj_with_gene_exp": 444,
+      "num_subj_with_pathway_exp": 444,
+      "num_subj_with_biomarkers": 448,
+      "study_has_diff_exp": true,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 448
+    },
+    {
+      "therapeutic_area": "Inflammation",
+      "indication": "Rheumatoid Arthritis",
+      "study_id": "GS-US-417-0303",
+      "study_name": "FINCH3 FIL MTX-NaÃ¯ve RA Trial (Ph.3)",
+      "num_subj_with_gene_exp": 553,
+      "num_subj_with_pathway_exp": 553,
+      "num_subj_with_biomarkers": 561,
+      "study_has_diff_exp": true,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 1249
+    },
+    {
+      "therapeutic_area": "Oncology",
+      "indication": "Gastric Adenocarcinoma",
+      "study_id": "GS-US-296-2013",
+      "study_name": "Andeca Gastric Adenocarcinoma Trial (Ph. 2)",
+      "num_subj_with_gene_exp": 87,
+      "num_subj_with_pathway_exp": 87,
+      "num_subj_with_biomarkers": 0,
+      "study_has_diff_exp": false,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 141
+    },
+    {
+      "therapeutic_area": "Virology",
+      "indication": "Hepatitis B Infection",
+      "study_id": "GS-US-389-2021",
+      "study_name": "",
+      "num_subj_with_gene_exp": 0,
+      "num_subj_with_pathway_exp": 0,
+      "num_subj_with_biomarkers": 71,
+      "study_has_diff_exp": false,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 71
+    },
+    {
+      "therapeutic_area": "Virology",
+      "indication": "Hepatitis B Infection",
+      "study_id": "GS-US-389-2022",
+      "study_name": "",
+      "num_subj_with_gene_exp": 0,
+      "num_subj_with_pathway_exp": 0,
+      "num_subj_with_biomarkers": 38,
+      "study_has_diff_exp": false,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 38
+    },
+    {
+      "therapeutic_area": "Virology",
+      "indication": "Hepatitis B Infection",
+      "study_id": "GS-US-389-2024",
+      "study_name": "",
+      "num_subj_with_gene_exp": 0,
+      "num_subj_with_pathway_exp": 0,
+      "num_subj_with_biomarkers": 48,
+      "study_has_diff_exp": false,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 48
+    },
+    {
+      "therapeutic_area": "Virology",
+      "indication": "Hepatitis B Infection",
+      "study_id": "GS-US-389-2025",
+      "study_name": "",
+      "num_subj_with_gene_exp": 0,
+      "num_subj_with_pathway_exp": 0,
+      "num_subj_with_biomarkers": 0,
+      "study_has_diff_exp": false,
+      "study_has_pathway_diff_exp": false,
+      "num_subj_total": 67
+    }
+  ],
+  "studies": [
+    {
+      "study_id": "GS-US-398-2022",
+      "indication": "Hepatitis B infection"
+    },
+    {
+      "study_id": "GS-US-417-0301",
+      "indication": "Rheumatoid Arthritis"
+    },
+    {
+      "study_id": "GS-US-389-2021",
+      "indication": "Hepatitis B infection"
+    },
+    {
+      "study_id": "GS-US-636-4092",
+      "indication": "Cutaneous Lupus Erythematosus"
+    }
+  ],
+  "scatter-plot-parameters": {
+    "age": ["19-35 Years Old:Test", "36-55 Years Old", "56+ Years Old"],
+    "sex": ["Male", "Female"],
+    "bmi": ["Underweight", "Normal Weight", "Overweight", "Obese"],
+    "race": [
+      "White or Caucasian",
+      "Asian",
+      "Black or African American",
+      "American Indian or Alaska Native",
+      "Native Hawaiian or Other Pacific Islander",
+      "Other"
+    ],
+    "ethnicity": ["Hispanic or Latino", "Not Hispanic or Latino"],
+    "response": ["DAS20 CRP", "DAS50 CRP"],
+    "tissue": ["Liver"],
+    "treatment": ["Placebo", "Simtuzumab, 75mg", "Simtuzumab, 125mg"],
+    "time": ["Baseline", "48 Weeks", "96 Weeks"],
+    "has_geneExpression": true,
+    "has_biomarker": true,
+    "has_pathwayExpression": false
+  },
+  "all-gene-ids": ["TOR1AIAPI", "ALK", "TRERF1", "CCL3CL3"],
+  "all-gene-alias": [
+    {
+      "gene_id": "CATSPERB",
+      "alias_symbols": "FLJ14298",
+      "gene_value": "CATSPERB"
+    },
+    {
+      "gene_id": "DNTTIP2",
+      "alias_symbols": "DNTTIP2,HSU15552,TdIF2",
+      "gene_value": "ERBP"
+    },
+    {
+      "gene_id": "EGFR",
+      "alias_symbols": "EGFR",
+      "gene_value": "ERBB1"
+    },
+    {
+      "gene_id": "ERBB2",
+      "alias_symbols": "NEU, HER-2, CD340, HER2",
+      "gene_value": "ERBB2"
+    },
+    {
+      "gene_id": "ERBB3",
+      "alias_symbols": "HER3",
+      "gene_value": "ERBB3"
+    },
+    {
+      "gene_id": "ERBB4",
+      "alias_symbols": "ALS19, HER4",
+      "gene_value": "ERBB4"
+    },
+    {
+      "gene_id": "ERBIN",
+      "alias_symbols": "LAP2",
+      "gene_value": "ERBIN"
+    },
+    {
+      "gene_id": "ESR2",
+      "alias_symbols": "ER-beta,ESR2,NR3A2",
+      "gene_value": "Erb"
+    },
+    {
+      "gene_id": "HABP4",
+      "alias_symbols": "HABP4,IHABP4",
+      "gene_value": "SERBP1L"
+    },
+    {
+      "gene_id": "KRTAP5-8",
+      "alias_symbols": "KRTAP5-2,KRTAP5-8,KRTAP5.8",
+      "gene_value": "UHSKerB"
+    },
+    {
+      "gene_id": "MICA",
+      "alias_symbols": "MICA",
+      "gene_value": "PERB11.1"
+    },
+    {
+      "gene_id": "MICB",
+      "alias_symbols": "MICB",
+      "gene_value": "PERB11.2"
+    },
+    {
+      "gene_id": "NR1D1",
+      "alias_symbols": "NR1D1,REVERBA,REVERBalpha,THRA1,ear-1,hRev",
+      "gene_value": "Rev-ErbAalpha"
+    },
+    {
+      "gene_id": "NR1D1",
+      "alias_symbols": "NR1D1,REVERBalpha,Rev-ErbAalpha,THRA1,ear-1,hRev",
+      "gene_value": "REVERBA"
+    },
+    {
+      "gene_id": "NR1D1",
+      "alias_symbols": "NR1D1,REVERBA,Rev-ErbAalpha,THRA1,ear-1,hRev",
+      "gene_value": "REVERBalpha"
+    },
+    {
+      "gene_id": "NR1D2",
+      "alias_symbols": "BD73,EAR-1r,HZF2,Hs.37288,NR1D2,REVERBbeta,RVR",
+      "gene_value": "REVERBB"
+    },
+    {
+      "gene_id": "NR1D2",
+      "alias_symbols": "BD73,EAR-1r,HZF2,Hs.37288,NR1D2,REVERBB,RVR",
+      "gene_value": "REVERBbeta"
+    },
+    {
+      "gene_id": "QRICH1",
+      "alias_symbols": "AB-DIP,FLJ20259,QRICH1",
+      "gene_value": "VERBRAS"
+    },
+    {
+      "gene_id": "RBM23",
+      "alias_symbols": "FLJ10482,RBM23",
+      "gene_value": "CAPERbeta"
+    },
+    {
+      "gene_id": "SERBP1",
+      "alias_symbols": "PAI-RBP1, DKFZP564M2423, CGI-55, HABP4L, PAIRBP1, CHD3IP",
+      "gene_value": "SERBP1"
+    },
+    {
+      "gene_id": "TERB1",
+      "alias_symbols": "FLJ35894",
+      "gene_value": "TERB1"
+    },
+    {
+      "gene_id": "TERB2",
+      "alias_symbols": "MGC33951",
+      "gene_value": "TERB2"
+    },
+    {
+      "gene_id": "THRA",
+      "alias_symbols": "AR7,EAR-7.1/EAR-7.2,NR1A1,THRA,THRA3",
+      "gene_value": "ERBA"
+    },
+    {
+      "gene_id": "THRB",
+      "alias_symbols": "GRTH,NR1A2,THR1,THRB,THRB1,THRB2",
+      "gene_value": "ERBA-BETA"
+    }
+  ],
+
+  "scatter-plot-query": [
+    {
+      "primaryGroup": "19 - 35 years old",
+      "secondaryGroup": "Placebo",
+      "values": [
+        2.95307, 4.77045, 4.61497, 5.81543, 7.33779, 3.59832, 2.98354, 2.03284,
+        3.37654, 1.87842, 2.92053, 4.93917, 2.76682, 5.27131, 4.16974, 1.16454,
+        1.82581, 3.13466, 3.95418, 2.74762, 5.06493, 3.27787, 4.02691, 6.22014,
+        9.5273, 10.1564, 7.05472, 4.47838, 7.25635, 7.42049, 4.03857, 6.14701,
+        6.61189, 1.83152
+      ]
+    },
+    {
+      "primaryGroup": "19 - 35 years old",
+      "secondaryGroup": "Filgotinib, 200 mg",
+      "values": [
+        6.15075, 2.35603, 4.80642, 2.55613, 4.98903, 3.85371, 4.14275, 2.7298,
+        5.15144, 7.53895, 6.04689, 5.95161, 6.96308, 6.57906, 6.32973, 4.25014,
+        3.94973, 3.70576, 1.98266, 2.95307, 4.77045, 4.12987, 7.85005, 4.61497,
+        6.38568, 3.26376, 7.82907, 5.81543, 6.04408, 5.62856, 5.17458, 3.89775,
+        7.33779, 4.15198, 3.59832, 2.98354, 3.825, 2.03284, 2.94377, 3.37654,
+        3.81161, 2.38393, 1.87842, 2.92053, 2.44554, 8.31602, 8.91667, 8.41302,
+        4.93917, 8.34272, 7.89443, 2.76682, 5.27131, 4.16974, 4.74042, 4.83943,
+        2.89407, 4.77295, 3.23641, 1.16454, 4.34573, 5.66646, 1.82581, 3.92367,
+        2.74795, 5.08844, 10.0884, 3.13466, 7.09858, 3.95418, 9.74775, 2.74762,
+        5.06493, 2.67345, 1.66748, 6.6047, 4.95317, 3.05006, 6.2318, 7.02581,
+        4.95149, 2.66437, 3.63633, 5.34566, 3.27787, 4.02691, 4.88907, 6.22014,
+        3.83682, 9.5273, 10.1564, 5.479, 7.05472, 4.24874, 3.02554, 4.42365,
+        3.13821, 2.87764, 2.64212, 6.78336, 4.47838, 4.56738, 2.74258, 7.31475,
+        7.25635, 7.42049, 7.19894, 2.16775, 3.75332, 7.24866, 5.89991, 4.84118,
+        4.03857, 6.14701, 6.61189, 5.40742, 1.83152
+      ]
+    },
+    {
+      "primaryGroup": "36 - 55 years old",
+      "secondaryGroup": "Placebo",
+      "values": [
+        4.39659, 4.156, 3.83673, 4.83303, 8.6961, 4.67279, 2.45811, 5.31789,
+        7.88282, 9.81033, 6.73803, 3.36132, 5.23898, 6.51785, 5.46276, 7.7831,
+        5.8735, 8.34304, 8.34669, 3.23123, 2.03367, 4.84356, 6.36292, 3.97783,
+        3.278, 5.52008, 4.59353, 4.74178, 3.46242, 7.72684, 11.8958, 11.3009,
+        4.87368, 8.49569, 4.03807, 7.56889, 3.87737, 4.90278, 8.19426, 6.53225,
+        7.61697, 5.00476, 4.08249, 8.38884, 3.06188, 13.5124, 5.51493, 4.78112,
+        11.9829, 5.38508, 8.39913, 2.46584, 12.595, 7.60104, 5.53782, 4.74418,
+        5.01469, 6.84628, 5.08057, 4.82658, 5.09652, 9.7472, 5.35271, 3.07164,
+        4.89692, 3.42663, 2.8, 4.92948, 2.06915, 3.70857, 3.04836, 3.08941,
+        2.08842, 2.80685, 2.00819, 1.96129, 7.71436, 5.53912, 2.43732, 4.45251,
+        5.82246, 5.12659, 6.01954, 3.5601, 8.23435, 3.86882, 12.2388, 9.56971,
+        2.79031, 5.89582, 6.22645, 4.7072, 4.77864, 8.75544, 2.76054, 4.69813,
+        5.16431, 6.71589, 6.73546, 6.352, 7.0238, 2.76991, 5.7084, 5.61988,
+        8.56641, 10.851, 4.83956, 7.37055, 4.18798, 7.66191, 12.2486, 8.23187,
+        4.58422, 15.2522, 3.73902, 4.6444, 2.68827, 3.15478, 4.93377, 3.29862,
+        2.42645, 3.30946, 6.45364, 2.2861, 5.16381, 3.2332, 5.95448, 4.23336,
+        3.18821, 3.81327, 5.75553, 4.3318, 5.03957, 4.13437, 4.60624, 5.46418,
+        4.39348, 3.89195, 3.04535, 4.21907, 5.61566, 6.71617, 3.7958, 3.89185,
+        8.04667, 4.50322, 5.84839, 7.2022, 7.47923, 8.96005, 2.87153, 4.23682,
+        4.1383, 5.9727, 8.30856, 5.50671, 4.02081, 4.88553, 2.88641, 5.51139,
+        5.15102, 4.99962, 6.49662, 4.15854
+      ]
+    },
+    {
+      "primaryGroup": "36 - 55 years old",
+      "secondaryGroup": "Filgotinib, 200 mg",
+      "values": [
+        4.39659, 4.156, 4.89973, 4.48602, 3.11795, 3.8651, 3.83673, 4.83303,
+        8.6961, 7.1628, 7.73295, 4.67279, 5.69221, 2.45811, 5.31789, 7.88282,
+        9.81033, 6.73803, 7.14704, 8.52127, 3.36132, 5.23898, 6.51785, 4.78235,
+        5.46276, 7.56948, 7.7831, 5.8735, 6.99481, 5.90481, 8.34304, 4.78329,
+        8.34669, 10.3399, 3.23123, 12.4975, 2.03367, 15.5078, 12.7318, 4.84356,
+        12.2707, 6.36292, 3.97783, 3.61837, 6.5981, 3.278, 5.52008, 4.59353,
+        4.74178, 3.46242, 7.72684, 3.93831, 11.8958, 11.3009, 6.71602, 4.87368,
+        5.7468, 8.49569, 3.22782, 1.48444, 2.77263, 3.42441, 4.03807, 6.14756,
+        10.6013, 7.56889, 3.87737, 7.71018, 4.90278, 8.19426, 7.92811, 6.53225,
+        8.25622, 9.79914, 7.61697, 5.00476, 4.08249, 8.38884, 4.48164, 3.06188,
+        10.043, 13.5124, 5.51493, 4.78112, 11.9829, 5.38508, 8.39913, 2.46584,
+        12.595, 5.16274, 7.60104, 5.53782, 4.74418, 5.01469, 6.84628, 6.19537,
+        6.98888, 5.08057, 4.82658, 5.09652, 9.7472, 5.35271, 11.1913, 3.07164,
+        4.89692, 1.91011, 2.25902, 3.42663, 2.8, 4.92948, 2.06915, 3.70857,
+        3.04836, 3.08941, 2.08842, 2.80685, 2.69647, 3.20184, 9.1228, 2.00819,
+        1.96129, 5.12219, 7.71436, 6.57092, 5.61179, 6.71628, 5.53912, 2.43732,
+        3.50539, 3.40028, 4.45251, 5.82246, 8.33485, 5.12659, 6.01954, 3.5601,
+        6.92843, 9.92828, 8.23435, 12.1557, 3.86882, 12.2388, 5.78269, 9.56971,
+        2.79031, 5.89582, 6.22645, 4.7072, 6.8612, 4.77864, 8.75544, 2.76054,
+        4.69813, 5.16431, 6.71589, 6.73546, 6.12298, 2.42022, 1.62448, 6.352,
+        5.13146, 3.01063, 7.0238, 2.76991, 4.07641, 5.7084, 3.35456, 4.52072,
+        2.69941, 5.61988, 5.87918, 8.56641, 6.0176, 10.851, 3.99472, 4.83956,
+        3.61353, 7.57084, 7.37055, 4.18798, 7.66191, 12.2486, 5.7563, 3.38638,
+        8.23187, 6.07098, 4.58422, 15.2522, 4.96375, 3.35431, 3.73902, 4.6444,
+        2.68827, 3.15478, 4.93377, 3.29862, 2.42645, 3.30946, 6.45364, 4.52284,
+        3.96366, 2.2861, 2.90525, 5.16381, 5.32313, 3.42576, 2.3128, 4.13748,
+        1.82567, 4.41155, 4.80173, 7.7958, 3.59581, 4.34678, 3.30423, 6.29535,
+        3.2332, 5.95448, 4.23336, 3.18821, 12.8637, 3.92751, 3.81327, 5.75553,
+        4.3318, 4.55227, 5.1158, 5.03957, 4.13437, 4.60624, 5.46418, 3.32383,
+        1.89494, 3.6093, 6.51608, 4.39348, 3.89195, 3.04535, 4.21907, 5.61566,
+        6.71617, 3.7958, 3.89185, 11.2042, 6.06625, 7.91716, 16.3281, 13.4861,
+        8.58206, 8.04667, 4.50322, 5.84839, 7.2022, 7.47923, 8.96005, 2.87153,
+        4.23682, 4.1383, 5.9727, 8.30856, 5.50671, 4.02081, 2.00096, 4.88553,
+        2.88641, 5.51139, 4.37489, 5.15102, 6.03245, 6.57905, 9.31774, 2.46049,
+        4.99962, 6.34515, 6.49662, 4.15854
+      ]
+    },
+    {
+      "primaryGroup": "56+ years old",
+      "secondaryGroup": "Placebo",
+      "values": [11.7657, 9.04441, 8.55643, 9.06309, 7.14204]
+    },
+    {
+      "primaryGroup": "56+ years old",
+      "secondaryGroup": "Filgotinib, 200 mg",
+      "values": [
+        3.00642, 6.08451, 3.82403, 5.84096, 4.71173, 5.46287, 4.76654, 3.13185,
+        3.04077, 11.7657, 9.04441, 2.95113, 5.55378, 4.40496, 6.30866, 5.12036,
+        8.55643, 9.06309, 2.60774, 3.16456, 7.14204
+      ]
+    }
+  ],
+  "differential-gene-expression": [
+    {
+      "study_id": "GLPG0634-CL-211",
+      "tissue_source": "Whole Blood",
+      "first_time_point": 0,
+      "first_time_point_string": "Baseline",
+      "second_time_point": 100800,
+      "second_time_point_string": "10 weeks",
+      "min_treatment": "Fibgitinin, 200mg",
+      "sub_treatment": "Placebo"
+    }
+  ],
+  "all-biomarker-names": [
+    {
+      "name": "Plasma interform Gamma",
+      "unit": "pgIL"
+    },
+    {
+      "name": "Plasma Interleukin 10 Gamma",
+      "unit": "pgIL"
+    }
+  ]
+}

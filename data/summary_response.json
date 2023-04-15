@@ -1,0 +1,83 @@
+[
+  {
+    "study_id": "GS-US-384-1943",
+    "therapeutic_area": "Inflammation",
+    "name": "STELLAR3 SEL F3 NASH Trial (Ph. 3)"
+  },
+  {
+    "study_id": "GS-US-384-1944",
+    "therapeutic_area": "Inflammation",
+    "name": "STELLAR4 SEL F4 NASH Trial (Ph. 3)"
+  },
+
+  {
+    "study_id": "GS-US-223-1015",
+    "therapeutic_area": "Inflammation",
+    "name": "SEL DKD (Ph. 2)"
+  },
+  {
+    "study_id": "GS-US-418-3898 (Cohort B)",
+    "therapeutic_area": "Inflammation",
+    "name": "FIL UC (Ph.3)"
+  },
+  {
+    "study_id": "GLPG0634-CL-211",
+    "therapeutic_area": "Inflammation",
+    "name": "Fitzroy FIL CD Trial (Ph. 2)"
+  },
+  {
+    "study_id": "GLPG0634-CL-223",
+    "therapeutic_area": "Inflammation",
+    "name": "TORTUGA FIL AS Trial (Ph. 2)"
+  },
+  {
+    "study_id": "GS-US-417-0303",
+    "therapeutic_area": "Inflammation",
+    "name": "FINCH3 FIL MTX-Naïve RA Trial (Ph.3)"
+  },
+  {
+    "study_id": "GS-US-417-0302",
+    "therapeutic_area": "Inflammation",
+    "name": "FINCH2 RA Trial (Ph. 3)"
+  },
+  {
+    "study_id": "GS-US-389-2024",
+    "therapeutic_area": "Virology",
+    "name": ""
+  },
+  {
+    "study_id": "GS-US-417-0301",
+    "therapeutic_area": "Inflammation",
+    "name": "FINCH1 FIL MTX-IR RA Trial (Ph.3)"
+  },
+  {
+    "study_id": "GS-US-418-3898 (Cohort A)",
+    "therapeutic_area": "Inflammation",
+    "name": "FIL UC (Ph.3)"
+  },
+  {
+    "study_id": "GS-US-389-2021",
+    "therapeutic_area": "Virology",
+    "name": ""
+  },
+  {
+    "study_id": "GS-US-321-0105",
+    "therapeutic_area": "Inflammation",
+    "name": "SIM F3 NASH Trial (Ph. 2)"
+  },
+  {
+    "study_id": "GS-US-454-4378",
+    "therapeutic_area": "Inflammation",
+    "name": "ATLAS NASH Combo Trial (Ph. 2)"
+  },
+  {
+    "study_id": "GS-US-389-2022",
+    "therapeutic_area": "Virology",
+    "name": ""
+  },
+  {
+    "study_id": "GS-US-321-0106",
+    "therapeutic_area": "Inflammation",
+    "name": "SIM F4 NASH Trial (Ph. 2)"
+  }
+]

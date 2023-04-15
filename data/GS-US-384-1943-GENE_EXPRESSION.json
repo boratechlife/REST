@@ -1,0 +1,14 @@
+[
+  {
+    "study_id": "GS-US-384-1943",
+    "stratification": [
+      "Placebo",
+      "Selonsertib, 6 mg",
+      "Selonsertib, 18 mg"
+    ],
+    "timepoints": [
+      "0",
+      "483840"
+    ]
+  }
+]

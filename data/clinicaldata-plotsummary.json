@@ -1,0 +1,4832 @@
+[
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CREAT",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CTX1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CTX1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CTX1N",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine NTX",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CREAT",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CREAT",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CREAT",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine NTX",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine NTX",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CTX1N",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine NTXN",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CREAT",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine NTXN",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine NTXN",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine NTX",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine NTXN",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CTX1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CTX1N",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine NTX",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine NTXN",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine NTX",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CTX1N",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine NTXN",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine NTX",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine NTX",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CTX1N",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CREAT",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CTX1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine NTX",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine NTXN",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CTX1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CTX1",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CREAT",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine NTX",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CTX1N",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CTX1",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CREAT",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CTX1N",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CREAT",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "Y"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "N"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "NONE"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine NTXN",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine NTXN",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CTX1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CTX1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CTX1N",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CTX1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CREAT",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CREAT",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CTX1N",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL23A",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine NTXN",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum RESISTIN",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum CHI3L1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CTX1N",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CTX1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL3",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CTX1",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "Good Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL13",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum VEGFA",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum TNF",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine NTX",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP7",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP3",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL6",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IFNG",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum GMCSF",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine CTX1N",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine NTX",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CTX1N",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine CREAT",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL2",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Plasma IL7",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL17A",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum CXCL13",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum TNFRI",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Urine NTXN",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum MMP1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma IL5",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL4",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum IL18",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 12",
+    "analyte": "Serum BALP",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma TRACP5B",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SICAM1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum SAA",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Urine NTXN",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum LEPTIN",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL1B",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Serum IL12P70",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CXCL10",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL4",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma CCL2",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum VCAM1",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum SIL6RB",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Week 4",
+    "analyte": "Serum IL10",
+    "tissue_source": "Blood",
+    "stratification": "Moderate Response"
+  },
+  {
+    "study_id": "s4170301",
+    "visit": "Baseline",
+    "analyte": "Plasma TNFSF13B",
+    "tissue_source": "Blood",
+    "stratification": "No Response"
+  }
+]

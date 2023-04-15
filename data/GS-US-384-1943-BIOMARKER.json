@@ -1,0 +1,49 @@
+[
+  {
+    "study_id": "GS-US-384-1943",
+    "stratification": [
+      "SEL_18_mg_and_Placebo_6_mg",
+      "SEL_6_mg_and_Placebo_18_mg",
+      "Placebo_6_mg_and_Placebo_18_mg"
+    ],
+    "timepoints": [
+      "Week_36",
+      "Week_40",
+      "Week_44",
+      "Week_48",
+      "Week_60",
+      "Week_72",
+      "Baseline",
+      "Week_1",
+      "Week_4",
+      "Week_8",
+      "Week_12",
+      "Week_16",
+      "Week_20",
+      "Week_24",
+      "Week_28",
+      "Week_32",
+      "OL_Week_4",
+      "OL_Week_8",
+      "OL_Week_12",
+      "OL_Week_16",
+      "OL_Week_20",
+      "OL_Baseline",
+      "OL_Week_24",
+      "OL_Week_1",
+      "Week_96",
+      "Week_84",
+      "OL_Week_32",
+      "OL_Week_36",
+      "OL_Week_40",
+      "OL_Week_44",
+      "OL_Week_48",
+      "OL_Week_28",
+      "Follow_Up",
+      "OL_Week_60",
+      "Week_108",
+      "Week_120",
+      "OL_Follow_Up"
+    ]
+  }
+]

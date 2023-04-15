@@ -1,0 +1,1217 @@
+[
+  {
+    "study_id": "GS-US-454-4378",
+    "phase": "P2",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Randomized, Double-blind, Placebo-Controlled Study evaluating the safety and efficacy of Selonsertib, GS-0976, GS-9674, and Combinations in subjects with bridging (F3) Fibrosis or Compensated Cirrhosis (F4) due to Nonalcoholic Steatohepatitis (NASH)",
+    "product": "NASH Combination",
+    "samples": 425
+  },
+  {
+    "study_id": "GS-US-464-4437",
+    "phase": "P2",
+    "indication": "HBV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 2, Randomized, Open-Label, Active-Controlled Study to Evaluate the Antiviral Activity of GS-9992 Plus Tenofovir Alafenamide (TAF) for 12 Weeks in Chronic Hepatitis B (CHB) Subjects",
+    "product": "GS-9992 Inarigivir (IRIG)",
+    "samples": 842
+  },
+  {
+    "study_id": "GS-US-439-4660",
+    "phase": "P1",
+    "indication": "HBV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1 Study to Evaluate the Safety, Tolerability,\nPharmacokinetics (PK) and Pharmacodynamics (PD) of GS-4224 in\nHealthy Volunteers and Subjects with the Chronic Hepatitis B (CHB)\nVirus",
+    "product": "GS-4224 PD-L1 SM",
+    "samples": 974
+  },
+  {
+    "study_id": "GS-US-493-5342",
+    "phase": "P1",
+    "indication": "HBV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1b Open-Label, Proof of Concept Study to Evaluate the Safety and Efficacy of Novel Hepatitis B Virus (HBV) Combination Therapies in Chronic Hepatitis B (CHB) Subjects",
+    "product": "LDV/SOF",
+    "samples": 716
+  },
+  {
+    "study_id": "GS-US-420-5372",
+    "phase": "P1",
+    "indication": "HIV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1 Randomized, Placebo-Controlled, Staggered, Multiple Ascending Dose Study Evaluating the Safety, Tolerability, and Pharmacokinetics of GS-9722 in combination with GS-9620 in Healthy Subjects",
+    "product": "GS-9722 Elipovimab (EVM)",
+    "samples": 229
+  },
+  {
+    "study_id": "GS-US-451-5399",
+    "phase": "P1",
+    "indication": "IBD",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Study in Healthy Volunteers to Evaluate the Safety, Tolerability, and Pharmacokinetics of the IRAK4 Inhibitor",
+    "product": "GS-5718 IRAK4 Inh",
+    "samples": 51
+  },
+  {
+    "study_id": "GS-US-505-5452",
+    "phase": "P1",
+    "indication": "ONC",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1a/1b Study of GS-1423, an Anti-CD73-TGF<df>-Trap Bifunctional Antibody, as Monotherapy or in Combination with a Chemotherapy Regimen in Subjects with Advanced Solid Tumors",
+    "product": "GS-1423 CD73 TGF<df> Trap",
+    "samples": 38
+  },
+  {
+    "study_id": "GS-US-389-5458",
+    "phase": "P1",
+    "indication": "HBV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1b, Open-label, Multi-center Study to Evaluate the Safety, Tolerability and Activity of GS-9688 in Special Populations of Subjects with Chronic Hepatitis B",
+    "product": "GS-9688 Selgantolimod (SLGN)",
+    "samples": 52
+  },
+  {
+    "study_id": "GS-US-494-5484",
+    "phase": "P1",
+    "indication": "NSCLC",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b/2 Dose Escalation/Expansion Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Efficacy of GS-4224 in Subjects with Advanced Solid Tumors",
+    "product": "GS-4224 PD-L1 SM",
+    "samples": 957
+  },
+  {
+    "study_id": "GS-US-457-5519",
+    "phase": "P1",
+    "indication": "IBD",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 \u001aSponsor-unblinded\u001a Dose-Escalation Study in Healthy Volunteers to Evaluate the Safety, Tolerability, and Pharmacokinetics of GS-5290",
+    "product": "GS-5290 TPL2 Inh",
+    "samples": 744
+  },
+  {
+    "study_id": "GS-US-454-5533",
+    "phase": "P2",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Proof of Concept, Open-Label Study Evaluating the Safety, Tolerability, and Efficacy of Monotherapy and Combination Regimens in Subjects with Nonalcoholic Steatohepatitis (NASH)",
+    "product": "NASH Combination",
+    "samples": 734
+  },
+  {
+    "study_id": "GS-US-365-5588",
+    "phase": "P1",
+    "indication": "UC",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1, Randomized, Sponsor-Unblinded, Placebo-Controlled Study to Evaluate the Effect of GS-4875 on Renal Function as Assessed by Markers of Glomerular Filtration Rate",
+    "product": "GS-4875 TPL2 Inh",
+    "samples": 360
+  },
+  {
+    "study_id": "GS-US-454-5621",
+    "phase": "P1",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Study to Obtain Peripheral Blood Mononuclear Cells (PBMCs) to Generate Inducible Pluripotent Stem Cells (iPSCs) for In-vitro Models of Nonalcoholic Steatohepatitis (NASH)",
+    "product": "NASH Combination",
+    "samples": 64
+  },
+  {
+    "study_id": "GS-US-496-5619",
+    "phase": "P1",
+    "indication": "ONC",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1 Study in Healthy Volunteers to Evaluate the Single Dose Pharmacokinetics, Safety, and Tolerability of GS-3583",
+    "product": "GS-3583 Flt3R Agonist",
+    "samples": 193
+  },
+  {
+    "study_id": "5F9005",
+    "phase": "P1",
+    "indication": "AML",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b Trial of Magrolimab Monotherapy or Magrolimab in Combination with Azacitidine in Patients with Hematological Malignancies",
+    "product": "GS-4721 Magrolimab",
+    "samples": 73
+  },
+  {
+    "study_id": "SRP001",
+    "phase": "P1",
+    "indication": "ONC",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1 Study of FSI-189 as Monotherapy and in Combination With Rituximab in Patients With Relapsed/Refractory Non-Hodgkin\u001as Lymphoma",
+    "product": "GS-0189 SIRP-a",
+    "samples": 256
+  },
+  {
+    "study_id": "GS-US-283-1059",
+    "phase": "P2",
+    "indication": "HBV",
+    "TA": "Virology",
+    "Title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Multi-center Study to Evaluate the Safety and Efficacy of GS-9620 for the Treatment of Virally Suppressed Subjects with Chronic Hepatitis B",
+    "product": "GS-9620 TLR7",
+    "samples": 953
+  },
+  {
+    "study_id": "GS-US-174-0149",
+    "phase": "P4",
+    "indication": "HBV",
+    "TA": "Virology",
+    "Title": "A Phase 4, Randomized, Active-Controlled, Superiority Study to Evaluate the Efficacy of HBsAg Loss and Safety with Tenofovir Disoproxil Fumarate (TDF) in Combination with Peginterferon alfa-2a (PegIFN) vs Standard of Care TDF Monotherapy or Peginterferon alfa-2a Monotherapy for 48 Weeks in Non-Cirrhotic Subjects with HBeAg-Positive or HBeAg-Negative Chronic Hepatitis B (CHB)",
+    "product": "Viread",
+    "samples": 659
+  },
+  {
+    "study_id": "GS-US-283-1062",
+    "phase": "P2",
+    "indication": "HBV",
+    "TA": "Virology",
+    "Title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Multi-center Study to Evaluate\r\nthe Safety and Efficacy of GS-9620 in combination with Tenofovir Disoproxil Fumarate (TDF)\r\nfor the Treatment of Subjects with Chronic Hepatitis B and who are currently not on\r\nTreatment",
+    "product": "GS-9620 TLR7",
+    "samples": 28
+  },
+  {
+    "study_id": "GS-US-296-0101",
+    "phase": "P1",
+    "indication": "Gastric",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1 Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of GS-5745 as Monotherapy and in Combination with Chemotherapy in Subjects with Advanced Solid Tumors",
+    "product": "GS-5745 Andecaliximab (ADX)",
+    "samples": 539
+  },
+  {
+    "study_id": "101-09",
+    "phase": "P2",
+    "indication": "iNHL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 2 Study to Assess the Efficacy and Safety of CAL-101 in Patients With Indolent B-Cell Non-Hodgkin Lymphoma Refractory to Rituximab and Alkylating Agents",
+    "product": "Zydelig (IDELA)",
+    "samples": 723
+  },
+  {
+    "study_id": "GS-US-321-0102",
+    "phase": "P2",
+    "indication": "PSC",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2b, Dose-Ranging, Randomized Study of GS-6624 in Subjects with Primary Sclerosing Cholangitis (PSC)",
+    "product": "GS-6624 Simtuzumab (SIM)",
+    "samples": 254
+  },
+  {
+    "study_id": "GS-US-312-0115",
+    "phase": "P3",
+    "indication": "CLL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 3, Randomized, Double-Blind, Placebo Controlled Study Evaluating the Efficacy and Safety of Idelalisib (GS 1101) in Combination with Bendamustine and Rituximab for Previously Treated Chronic Lymphocytic Leukemia",
+    "product": "Zydelig (IDELA)",
+    "samples": 144
+  },
+  {
+    "study_id": "GS-US-312-0116",
+    "phase": "P3",
+    "indication": "CLL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 3, Randomized, Double-Blind, Placebo Controlled Study Evaluating the Efficacy and Safety of Idelalisib (GS 1101) in Combination with Rituximab for Previously Treated Chronic Lymphocytic Leukemia",
+    "product": "Zydelig (IDELA)",
+    "samples": 212
+  },
+  {
+    "study_id": "GS-US-312-0117",
+    "phase": "P3",
+    "indication": "CLL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 3, Double-Blind Extension Study Evaluating the Efficacy and Safety of Two Different Dose Levels of Single Agent Idelalisib (GS-1101) for Previously Treated Chronic Lymphocytic Leukemia\nA Companion Trial to Study GS-US-312-0116: A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Idelalisib (GS 1101) in Combination with Rituximab for Previously Treated Chronic Lymphocytic Leukemia",
+    "product": "Zydelig (IDELA)",
+    "samples": 550
+  },
+  {
+    "study_id": "GS-US-312-0118",
+    "phase": "P3",
+    "indication": "CLL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 3, Randomized, Open-Label Study Evaluating the Efficacy and Safety of Idelalisib in Combination with Obinutuzumab Compared to Chlorambucil in Combination with Obinutuzumab for Previously Untreated Chronic Lymphocytic Leukemia",
+    "product": "Zydelig (IDELA)",
+    "samples": 165
+  },
+  {
+    "study_id": "GS-US-312-0119",
+    "phase": "P3",
+    "indication": "CLL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 3, Randomized, Controlled Study Evaluating the Efficacy and Safety of Idelalisib (GS-1101) in Combination with Ofatumumab for Previously Treated Chronic Lymphocytic Leukemia",
+    "product": "Zydelig (IDELA)",
+    "samples": 920
+  },
+  {
+    "study_id": "GS-US-321-0105",
+    "phase": "P2",
+    "indication": "LF",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2b, Dose-Ranging, Randomized Study of GS-6624 in Subjects with Advanced Liver Fibrosis Secondary to Non-Alcoholic Steatohepatitis (NASH)",
+    "product": "GS-6624 Simtuzumab (SIM)",
+    "samples": 364
+  },
+  {
+    "study_id": "GS-US-321-0106",
+    "phase": "P2",
+    "indication": "LF",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2b, Dose-Ranging, Randomized Study of GS-6624 in Subjects with Compensated Cirrhosis Secondary to Non-Alcoholic Steatohepatitis",
+    "product": "GS-6624 Simtuzumab (SIM)",
+    "samples": 80
+  },
+  {
+    "study_id": "GS-US-326-0101",
+    "phase": "P1",
+    "indication": "UC",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Double-blind, Randomized, Placebo-Controlled, Staggered, Single and Multiple Ascending Dose, Multicenter Study Evaluating the Safety, Tolerability, Pharmacokinetics and Efficacy of GS-5745 in Subjects with Moderate to Severe Ulcerative Colitis",
+    "product": "GS-5745 MMP9",
+    "samples": 552
+  },
+  {
+    "study_id": "GS-US-322-0206",
+    "phase": "P2",
+    "indication": "IPF",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Long-Term Safety Study of GS-6624 in Adult Subjects with Idiopathic Pulmonary Fibrosis (ATLAS)",
+    "product": "GS-6624 Simtuzumab<a0>(SIM)",
+    "samples": 155
+  },
+  {
+    "study_id": "GS-US-334-0107",
+    "phase": "P3",
+    "indication": "HCV",
+    "TA": "Virology",
+    "Title": "POSITRON: A Phase 3, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Investigate the Efficacy and Safety of GS-7977 + Ribavirin for 12 Weeks in Subjects with Chronic HCV Infection Genotype 2 or 3 who are Interferon Intolerant, Medically Ineligible or Unwilling to Take Interferon",
+    "product": "Sovaldi (SOF)",
+    "samples": 481
+  },
+  {
+    "study_id": "GS-US-334-0108",
+    "phase": "P3",
+    "indication": "HCV",
+    "TA": "Virology",
+    "Title": "FUSION: A Phase 3, Multicenter, Randomized, Double-Blind, Study to Investigate the Efficacy and Safety of GS-7977 + Ribavirin for 12 or 16 Weeks in Treatment Experienced Subjects with Chronic Genotype 2 or 3 HCV Infection",
+    "product": "Sovaldi (SOF)",
+    "samples": 56
+  },
+  {
+    "study_id": "GS-US-326-1100",
+    "phase": "P3",
+    "indication": "UC",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Combined Phase 2/3, Double-Blind, Randomized, Placebo-Controlled, Induction and Maintenance Study Evaluating the Safety and Efficacy of GS5745 in Subjects with Moderately to Severely Active Ulcerative Colitis",
+    "product": "GS-5745 MMP9",
+    "samples": 764
+  },
+  {
+    "study_id": "GS-US-322-0207",
+    "phase": "P2",
+    "indication": "IPF",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Multi-Center Study to Assess the Efficacy and Safety of GS-6624 in Subjects with IPF (RAINIER)",
+    "product": "GS-6624 Simtuzumab<a0>(SIM)",
+    "samples": 708
+  },
+  {
+    "study_id": "GS-US-223-1015",
+    "phase": "P2",
+    "indication": "DKD",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Dose-ranging, Double-blind, Placebo-controlled Study Evaluating the Efficacy, Safety and Tolerability of GS-4997 in Subjects with Stage 3 or 4  Diabetic Kidney Disease",
+    "product": "GS-4997 Selonsertib (SEL)",
+    "samples": 119
+  },
+  {
+    "study_id": "GS-US-339-0102",
+    "phase": "P2",
+    "indication": "ONC",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 2, Open-Label Study Evaluating the Efficacy, Safety, Tolerability, and Pharmacodynamics of GS 9973 in Subjects with Relapsed or Refractory Hematologic Malignancies",
+    "product": "GS-9973 Entospletinib (ENTO)",
+    "samples": 217
+  },
+  {
+    "study_id": "GS-US-330-0101",
+    "phase": "P2",
+    "indication": "HBV",
+    "TA": "Virology",
+    "Title": "A Phase 2, Randomized, Open-Label Study to Evaluate the Safety and Efficacy of GS-4774 for the Treatment of Virally-Suppressed Subjects with Chronic Hepatitis B",
+    "product": "GS-4774 GlobeImmune Vac",
+    "samples": 415
+  },
+  {
+    "study_id": "GS-US-296-1080",
+    "phase": "P3",
+    "indication": "Gastric",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled Study to\r\nEvaluate the Efficacy and Safety of GS-5745 Combined with mFOLFOX6\r\nas First Line Treatment in Patients with Advanced Gastric or\r\nGastroesophageal Junction Adenocarcinoma",
+    "product": "GS-5745 Andecaliximab (ADX)",
+    "samples": 859
+  },
+  {
+    "study_id": "GS-US-312-0123",
+    "phase": "P3",
+    "indication": "CLL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Efficacy and Safety of Idelalisib (GS 1101) in Combination with Bendamustine and Rituximab for Previously Untreated Chronic Lymphocytic Leukemia",
+    "product": "Zydelig (IDELA)",
+    "samples": 470
+  },
+  {
+    "study_id": "GS-US-352-0101",
+    "phase": "P3",
+    "indication": "MF",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 3, Randomized, Double-blind Active-controlled Study Evaluating Momelotinib vs. Ruxolitinib in Subjects with Primary Myelofibrosis (PMF) or Post-Polycythemia Vera or Post- Essential Thrombocythemia Myelofibrosis (Post-PV/ET MF)",
+    "product": "GS-0387 Momelotinib (MMB)",
+    "samples": 289
+  },
+  {
+    "study_id": "GS-US-354-0101",
+    "phase": "P2",
+    "indication": "PV",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 2, Open-label, Randomized Study to Evaluate the Safety and Efficacy of Momelotinib in Subjects with Polycythemia Vera or Essential Thrombocythemia",
+    "product": "GS-0387 Momelotinib (MMB)",
+    "samples": 757
+  },
+  {
+    "study_id": "GS-US-312-0133",
+    "phase": "P2",
+    "indication": "CLL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 2, Single Arm Study Evaluating the Efficacy and Safety of Idelalisib in Combination with Rituximab in Patients with Previously Untreated Chronic Lymphocytic Leukemia with 17p Deletion",
+    "product": "Zydelig (IDELA)",
+    "samples": 387
+  },
+  {
+    "study_id": "GS-US-368-1212",
+    "phase": "P1",
+    "indication": "COPD",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1b Double-Blind, Randomized, Placebo-Controlled, Multicenter Study Evaluating the Safety, Tolerability, Pharmacokinectics and Efficacy of GS-5745 in Subjects with COPD",
+    "product": "GS-5745 MMP9",
+    "samples": 493
+  },
+  {
+    "study_id": "GS-US-352-1214",
+    "phase": "P3",
+    "indication": "MF",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 3, Randomized Study To Evaluate the Efficacy of Momelotinib versus Best Available Therapy in Anemic or Thrombocytopenic Subjects with Primary Myelofibrosis, Post-Polycythemia Vera Myelofibrosis, or Post-Essential Thrombocythemia Myelofibrosis who were Treated with Ruxolitinib",
+    "product": "GS-0387 Momelotinib (MMB)",
+    "samples": 359
+  },
+  {
+    "study_id": "GS-US-366-1216",
+    "phase": "P3",
+    "indication": "HIV",
+    "TA": "Virology",
+    "Title": "A Phase 3b, Randomized, Double-Blind Switch Study to Evaluate the Safety and Efficacy of Emtricitabine/Rilpivirine/Tenofovir Alafenamide (FTC/RPV/TAF) Fixed Dose Combination (FDC) in HIV-1 Positive Subjects who are Virologically Suppressed on Emtricitabine/Rilpivirine/Tenofovir Disoproxil Fumarate (FTC/RPV/TDF)",
+    "product": "Odefsey (ODE)",
+    "samples": 279
+  },
+  {
+    "study_id": "GS-US-373-1276",
+    "phase": "P1",
+    "indication": "RA",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1b Double-Blind, Randomized, Placebo-Controlled, Multicenter Study Evaluating the Safety, Tolerability, Pharmacokinectics and Efficacy of GS-5745 in Subjects with RA",
+    "product": "GS-5745 Andecaliximab (ADX)",
+    "samples": 113
+  },
+  {
+    "study_id": "GS-US-370-1296",
+    "phase": "P3",
+    "indication": "ONC",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 3, Randomized, Double-blind, Placebo-controlled Study of Gemcitabine and Nab paclitaxel combined with Momelotinib in Subjects with Previously Untreated Metastatic Pancreatic Ductal Adenocarcinoma Preceded by a Dose-finding, Lead-in Phase",
+    "product": "GS-0387 Momelotinib (MMB)",
+    "samples": 988
+  },
+  {
+    "study_id": "GS-US-370-1297",
+    "phase": "P1",
+    "indication": "ONC",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b with Expansion Study Evaluating the Efficacy and Safety of Momelotinib Combined with Trametinib in Subjects with Metastatic KRAS-mutated Non-Small\r\nCell Lung Cancer (NSCLC) Who Have Failed Platinum-Based Chemotherapy Preceded by a Dose-finding Lead-in Phase",
+    "product": "GS-0387 Momelotinib (MMB)",
+    "samples": 623
+  },
+  {
+    "study_id": "GS-US-370-1298",
+    "phase": "P1",
+    "indication": "ONC",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b Study of Erlotinib and Momelotinib for the Treatment of Epidermal Growth Factor Receptor (EGFR)-Mutated EGFR Tyrosine Kinase Inhibitor (TKI) Na<ef>ve Metastatic Non-Small Cell Lung Cancer (NSCLC)",
+    "product": "GS-0387 Momelotinib (MMB)",
+    "samples": 267
+  },
+  {
+    "study_id": "GS-US-325-1348",
+    "phase": "P1",
+    "indication": "ONC",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b Dose-escalation Study Evaluating the Safety, Pharmacokinetics, Pharmacodynamics, and Clinical Activity of GS-9901 in Patients with Relapsed or Refractory Follicular Lymphoma, Marginal Zone Lymphoma, Chronic Lymohocytic Leukemia, or Small Lymphocytic Lymphoma",
+    "product": "GS-9901 PI3KD",
+    "samples": 742
+  },
+  {
+    "study_id": "GS-US-370-1369",
+    "phase": "P1",
+    "indication": "ONC",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b Study Evaluating Momelotinib Combined with Capecitabine and Oxaliplatin in Subjects with Relapsed/Refractory Metastatic Pancreatic Ductal Adenocarcinoma",
+    "product": "GS-0387 Momelotinib (MMB)",
+    "samples": 766
+  },
+  {
+    "study_id": "GS-US-379-1372",
+    "phase": "P1",
+    "indication": "RA",
+    "TA": "Inflammation/Respiratory",
+    "Title": "An Adaptive, Single and Multiple Dose Phase 1 Study of GS 9876 in\r\nHealthy Volunteers to Evaluate the Safety, Tolerability, Pharmacokinetics,\r\nPharmacodynamics, Food Effect, and Interaction with Acid-Reducing\r\nAgents",
+    "product": "GS-9876 Syk Inh",
+    "samples": 385
+  },
+  {
+    "study_id": "GS-US-330-1401",
+    "phase": "P2",
+    "indication": "HBV",
+    "TA": "Virology",
+    "Title": "A Phase 2, Randomized, Open-Label Study to Evaluate the Safety and Efficacy of GS-4774 in combination with Tenofovir Disoproxil Fumarate (TDF) for the Treatment of Subjects with Chronic Hepatitis B and who are currently not on Treatment",
+    "product": "GS-4774 GlobeImmune Vac",
+    "samples": 917
+  },
+  {
+    "study_id": "GS-US-382-1450",
+    "phase": "P1",
+    "indication": "HIV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1b, Randomized, Blinded, Placebo-Controlled Dose-Escalation Study of the Safety and Biological Activity of GS-9620 in HIV-1 Infected, Virologically Suppressed Adults",
+    "product": "GS-9620 Vesatolimod (VES)",
+    "samples": 919
+  },
+  {
+    "study_id": "GS-US-141-1475",
+    "phase": "P2",
+    "indication": "HIV",
+    "TA": "Virology",
+    "Title": "A Phase 2, Randomized, Double-Blinded Study of the Safety and Efficacy of F/TAF + GS-9883 Vs F/TAF + Dolutegravir in HIV-1 Infected, Antiretroviral Treatment Naive Adults",
+    "product": "GS-9883 Bictegravir (BIC)",
+    "samples": 692
+  },
+  {
+    "study_id": "GS-US-384-1497",
+    "phase": "P2",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Randomized, Open Label Study Evaluating the Safety,\r\nTolerability, and Efficacy of GS-4997 alone or in Combination with Simtuzumab (SIM) in\r\nSubjects with Nonalcoholic Steatohepatitis (NASH) and Fibrosis Stages F2-F3",
+    "product": "GS-4997 Selonsertib (SEL)",
+    "samples": 300
+  },
+  {
+    "study_id": "GS-US-373-1499",
+    "phase": "P2",
+    "indication": "RA",
+    "TA": "Inflammation/Respiratory",
+    "Title": "Evaluation of the Efficacy and Safety of GS-5745 as Add-On Therapy to a Tumor Necrosis Factor Inhibitor and Methotrexate Regimen in Subjects with Moderate to Severe Rheumatoid Arthritis\n",
+    "product": "GS-5745 Andecaliximab (ADX)",
+    "samples": 577
+  },
+  {
+    "study_id": "GS-US-339-1559",
+    "phase": "P1",
+    "indication": "AML",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b/2 Study of Entospletinib (GS-9973) Monotherapy and in Combination with Chemotherapy in Subjects with Acute Myeloid Leukemia (AML)",
+    "product": "GS-9973 Entospletinib (ENTO)",
+    "samples": 449
+  },
+  {
+    "study_id": "GS-US-339-1560",
+    "phase": "P1",
+    "indication": "ALL",
+    "TA": "Hematology/Oncology",
+    "Title": "Phase 1/2 Study of GS-9973 and Chemotherapy in Patients with Acute Lymphoblastic\nLeukemia (ALL)",
+    "product": "GS-9973 Entospletinib (ENTO)",
+    "samples": 782
+  },
+  {
+    "study_id": "GS-US-385-1577",
+    "phase": "P1",
+    "indication": "IMC",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b Study of Single Agent Idelalisib Followed by Idelalisib in Combination with Chemotherapy in Subjects with Metastatic Pancreatic Ductal Adenocarcinoma",
+    "product": "Idelalisib (IDELA)",
+    "samples": 420
+  },
+  {
+    "study_id": "GS-US-312-1579",
+    "phase": "P1",
+    "indication": "CLL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b/2  Study of Idelalisib in  Combination with BI 836826 in Subjects with Chronic Lymphocytic Leukemia",
+    "product": "Zydelig (IDELA)",
+    "samples": 473
+  },
+  {
+    "study_id": "GS-US-379-1582",
+    "phase": "P2",
+    "indication": "RA",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Randomized, Double-Blind, Placebo-Controlled, Multicenter, Phase 2 Proof-of-Concept Study to Evaluate Safety, Tolerability, and Efficacy of GS-9876 in Subjects with Active Rheumatoid Arthritis on Background Therapy with Methotrexate",
+    "product": "GS-9876 Syk Inh",
+    "samples": 311
+  },
+  {
+    "study_id": "GS-US-350-1599",
+    "phase": "P1",
+    "indication": "Prostate",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1 Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of GS-5829 as a Monotherapy in Subjects with Advanced Solid Tumors and Lymphomas and in Combination with Exemestane or Fulvestrant in Subjects with Estrogen Receptor Positive Breast Cancer",
+    "product": "GS-5829 BET Inh",
+    "samples": 907
+  },
+  {
+    "study_id": "GS-US-350-1604",
+    "phase": "P1",
+    "indication": "Prostate",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b/2 Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of GS-5829 as a Single Agent and In Combination with Enzalutamide in Subjects with Metastatic Castrate-Resistant Prostate Cancer",
+    "product": "GS-5829 BET Inh",
+    "samples": 844
+  },
+  {
+    "study_id": "GS-US-339-1627",
+    "phase": "P1",
+    "indication": "ONC",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1 Study to Evaluate the Drug Interaction Profile of GS-9973 Using Probe Inhibitors, Inducers, or Substrates of Metabolizing Enzymes and/or Transporters",
+    "product": "GS-9973 Entospletinib (ENTO)",
+    "samples": 307
+  },
+  {
+    "study_id": "GS-US-337-1655",
+    "phase": "P3",
+    "indication": "HCV",
+    "TA": "Virology",
+    "Title": "A Phase 3b Open-Label Study of Ledipasvir/Sofosbuvir\nFixed-Dose Combination for 12 Weeks in Subjects with Chronic\nGenotype 1 or 2 Hepatitis C Virus (HCV) and Hepatitis B Virus\n(HBV) Coinfection",
+    "product": "Harvoni (SOF/LDV)",
+    "samples": 102
+  },
+  {
+    "study_id": "GS-US-395-1663",
+    "phase": "P2",
+    "indication": "CRD",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Double-blind, Randomized, Placebo-Controlled, Multicenter Study Evaluating the Safety and Efficacy of GS 5745 in Subjects with Moderately to Severely Active Crohn\u001as\r\nDisease",
+    "product": "GS-5745 MMP9",
+    "samples": 202
+  },
+  {
+    "study_id": "GS-US-352-1672",
+    "phase": "P2",
+    "indication": "MF",
+    "TA": "Hematology/Oncology",
+    "Title": "An Open-label, Translational Biology Study of Momelotinib in Transfusion-Dependent\r\nSubjects with Myelofibrosis",
+    "product": "GS-0387 Momelotinib (MMB)",
+    "samples": 366
+  },
+  {
+    "study_id": "GS-US-311-1717",
+    "phase": "P3",
+    "indication": "HIV",
+    "TA": "Virology",
+    "Title": "A Phase 3b, Randomized, Double-Blind, Switch Study to Evaluate F/TAF in HIV-1 Positive Subjects who are Virologically Suppressed on Regimens containing ABC/3TC",
+    "product": "Descovy (DVY)",
+    "samples": 748
+  },
+  {
+    "study_id": "GS-US-401-1757",
+    "phase": "P1",
+    "indication": "r/r DLBCL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b Dose Escalation and Dose Expansion Study of ONO/GS-4059 in Combination with other Targeted Anti-cancer Therapies in Subjects with B-cell Malignancies",
+    "product": "GS-4059 Tirabrutinib (TIRA)",
+    "samples": 996
+  },
+  {
+    "study_id": "GS-US-401-1765",
+    "phase": "P1",
+    "indication": "CLL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1 Study to Evaluate the Effect of Inhibitors of Organic Anion\nTransporting Polypeptide (OATP) 1B1 and 1B3 and Inducers of\nCytochrome P450 3A (CYP3A) on ONO/GS-4059 Pharmacokinetics",
+    "product": "GS-4059 Tirabrutinib (TIRA)",
+    "samples": 673
+  },
+  {
+    "study_id": "GS-US-368-1793",
+    "phase": "P1",
+    "indication": "COPD",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Multicenter Study to Evaluate Sputum MMP9 Levels and Enzyme Activity in Subjects with\r\nChronic Obstructive Pulmonary Disease (COPD) Compared to Age-Matched Healthy\r\nControls",
+    "product": "GS-5745 MMP9",
+    "samples": 210
+  },
+  {
+    "study_id": "GS-US-218-1797",
+    "phase": "P2",
+    "indication": "RSV",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2b, Randomized, Controlled Trial Evaluating GS-5806 in Lung Transplant (LT) Recipients with Respiratory Syncytial Virus (RSV) Infection",
+    "product": "GS-5806 Presatovir (PSAT)",
+    "samples": 147
+  },
+  {
+    "study_id": "GS-US-404-1808",
+    "phase": "P2",
+    "indication": "CF",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2b,  Dose-Ranging Study of the Effect of GS-5745 on FEV1 in Adult Subjects with Cystic Fibrosis",
+    "product": "GS-5745 Andecaliximab (ADX)",
+    "samples": 436
+  },
+  {
+    "study_id": "GS-US-292-1823",
+    "phase": "P3",
+    "indication": "HIV",
+    "TA": "Virology",
+    "Title": "A Phase 3b Randomized Open-Label Study to Evaluate the Benefit of\r\nSwitching from Regimens Consisting of abacavir/lamivudine (ABC/3TC)\r\nplus a third agent to the Elvitegravir /Cobicistat /Emtricitabine /Tenofovir\r\nalafenamide (E/C/F/TAF) Single-Tablet Regimen in Virologically-\r\nSuppressed HIV-1 Infected Adult Patients",
+    "product": "Genvoya (GEN)",
+    "samples": 755
+  },
+  {
+    "study_id": "GS-US-292-1826",
+    "phase": "P3",
+    "indication": "HIV",
+    "TA": "Virology",
+    "Title": "A Phase 3b, Randomized, Open-Label Study to Evaluate Switching from a Tenofovir Disoproxil Fumarate (TDF) Containing Regimen to Elvitegravir/Cobicistat/Emtricitabine/ Tenofovir Alafenamide (E/C/F/TAF) Fixed-Dose Combination (FDC) in Virologically-Suppressed, HIV-1 Infected Subjects Aged = 60 Years",
+    "product": "Genvoya (GEN)",
+    "samples": 871
+  },
+  {
+    "study_id": "GS-US-407-1833",
+    "phase": "P1",
+    "indication": "RA",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Blinded, Placebo-Controlled, Randomized, Study Evaluating the Safety and Pharmacokinetics of GS 4059 in Healthy Volunteers and Subjects with Rheumatoid Arthritis (RA)",
+    "product": "GS-4059 Tirabrutinib (TIRA)",
+    "samples": 803
+  },
+  {
+    "study_id": "GS-US-406-1840",
+    "phase": "P2",
+    "indication": "cGVHD",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy and Tolerability of Entospletinib, a Selective SYK Inhibitor, in Addition to Systemic Steroids as First Line Therapy in Subjects with Chronic Graft Versus Host Disease",
+    "product": "GS-9973 Entospletinib (ENTO)",
+    "samples": 770
+  },
+  {
+    "study_id": "GS-US-205-1850",
+    "phase": "P3",
+    "indication": "CF",
+    "TA": "Inflammation/Respiratory",
+    "Title": "Randomized, Double-Blind, Phase 3B Trial to Evaluate the Safety and Efficacy of 2 Treatment Regimens of Aztreonam 75 mg Powder and Solvent for Nebulizer Solution / Aztreonam for Inhalation Solution (AZLI) in Pediatric Subjects with Cystic Fibrosis (CF) and New Onset Respiratory Tract Pseudomonas aeruginosa (PA) Infection/Colonization Aztreonam Lysine for Pseudomonas INfection Eradication 2 (ALPINE 2) Study",
+    "product": "Cayston (AZLI)",
+    "samples": 273
+  },
+  {
+    "study_id": "GS-US-402-1851",
+    "phase": "P1",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Study in Healthy Volunteers to Evaluate the Safety,\r\nTolerability, Pharmacokinetics and Pharmacodynamics of GS-9674, and\r\nthe Effect of Food on GS-9674 Pharmacokinetics and Pharmacodynamics",
+    "product": "GS-9674 Cilofexor (CILO)",
+    "samples": 908
+  },
+  {
+    "study_id": "GS-US-402-1852",
+    "phase": "P2",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Safety, Tolerability, and Efficacy of GS-9674 in Subjects with Nonalcoholic Steatohepatitis (NASH)",
+    "product": "GS-9674 Cilofexor (CILO)",
+    "samples": 169
+  },
+  {
+    "study_id": "GS-US-380-1878",
+    "phase": "P3",
+    "indication": "HIV",
+    "TA": "Virology",
+    "Title": "A Phase 3, Randomized, Open Label Study to Evaluate the Safety and Efficacy of Switching from Regimens Consisting of Boosted Atazanavir or Darunavir plus either Emtricitabine/Tenofovir or Abacavir/Lamivudine to GS-9883/Emtricitabine/Tenofovir Alafenamide in Virologically Suppressed HIV-1 Infected Adults",
+    "product": "Biktarvy (BVY)",
+    "samples": 257
+  },
+  {
+    "study_id": "GS-US-296-1884",
+    "phase": "P1",
+    "indication": "Gastric",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b Study to Evaluate the Safety and Tolerability of Andecaliximab (GS-5745) as Monotherapy and in Combination with Anti-Cancer Agents in Japanese Subjects with Gastric or Gastroesophageal Junction Adenocarcinoma",
+    "product": "GS-5745 Andecaliximab (ADX)",
+    "samples": 849
+  },
+  {
+    "study_id": "GS-US-326-1885",
+    "phase": "P1",
+    "indication": "UC",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Study to Investigate the Pharmacokinetics, Safety, and\r\nTolerability of GS-5745 in Healthy Japanese and Caucasian Subjects",
+    "product": "GS-5745 MMP9",
+    "samples": 496
+  },
+  {
+    "study_id": "GS-US-379-1900",
+    "phase": "P1",
+    "indication": "RA",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Single- and Multiple-Dose Phase 1 Study of GS-9876 in Healthy Volunteers to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics",
+    "product": "GS-9876 Syk Inh",
+    "samples": 34
+  },
+  {
+    "study_id": "GS-US-350-1937",
+    "phase": "P1",
+    "indication": "Breast",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 1b/2 Study of GS-5829 in Combination with Fulvestrant or Exemestane in Subjects with Advanced Estrogen Receptor Positive, HER2 Negative-Breast Cancer",
+    "product": "GS-5829 BET Inh",
+    "samples": 78
+  },
+  {
+    "study_id": "GS-US-330-1938",
+    "phase": "P1",
+    "indication": "HBV",
+    "TA": "Virology",
+    "Title": "A Phase 1, Open-Label, Single Dose Study to Evaluate the Safety and\nEfficacy of Nivolumab With or Without GS-4774 for the Treatment of\nVirally Suppressed Subjects with Chronic Hepatitis B",
+    "product": "GS-4774 GlobeImmune Vac",
+    "samples": 401
+  },
+  {
+    "study_id": "GS-US-384-1943",
+    "phase": "P3",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "STELLAR-3 A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Safety and Efficacy of Selonsertib in Subjects with Nonalcoholic Steatohepatitis (NASH) and Bridging (F3) Fibrosis",
+    "product": "GS-4997 Selonsertib (SEL)",
+    "samples": 188
+  },
+  {
+    "study_id": "GS-US-384-1944",
+    "phase": "P3",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "STELLAR-4 A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Safety and Efficacy of Selonsertib in Subjects with Compensated Cirrhosis due to Nonalcoholic Steatohepatitis (NASH)",
+    "product": "GS-4997 Selonsertib (SEL)",
+    "samples": 522
+  },
+  {
+    "study_id": "GS-US-399-1954",
+    "phase": "P1",
+    "indication": "EVD",
+    "TA": "Virology",
+    "Title": "A Phase 1, Blinded, Randomized, Placebo Controlled, First in Human,\r\nMultiple-Ascending Dose Study Evaluating the Safety, Tolerability, and\r\nPharmacokinetics of Intravenous GS 5734",
+    "product": "GS-5734 Remdesivir (RDV)",
+    "samples": 934
+  },
+  {
+    "study_id": "GS-US-401-1958",
+    "phase": "P2",
+    "indication": "CLL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Prospective, Randomized, Open-Label, Multicenter, Phase 2 Trial to Evaluate the Safety and Efficacy of the Combination of GS-4059 and Idelalisib with and without Obinutuzumab in Subjects with Chronic Lymphocytic Leukemia",
+    "product": "GS-4059 Tirabrutinib (TIRA)",
+    "samples": 136
+  },
+  {
+    "study_id": "GS-US-296-2013",
+    "phase": "P2",
+    "indication": "Gastric",
+    "TA": "Hematology/Oncology",
+    "Title": "A Phase 2, Open-Label, Randomized Study to Evaluate the Efficacy and Safety of GS-5745 Combined with Nivolumab versus Nivolumab Alone in Subjects with Unresectable or Recurrent Gastric or Gastroesophageal Junction Adenocarcinoma",
+    "product": "GS-5745 Andecaliximab (ADX)",
+    "samples": 747
+  },
+  {
+    "study_id": "GS-US-389-2021",
+    "phase": "P1",
+    "indication": "HBV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1 Study in Healthy Volunteers to Evaluate the Safety, Tolerability, and Pharmacokinetics and the Effect of Food on GS-9688",
+    "product": "GS-9688 Selgantolimod (SLGN)",
+    "samples": 686
+  },
+  {
+    "study_id": "GS-US-389-2022",
+    "phase": "P1",
+    "indication": "HBV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1b Study Evaluating the Safety and Tolerability of GS-9688 in Patients with Chronic Hepatitis B",
+    "product": "GS-9688 Selgantolimod (SLGN)",
+    "samples": 646
+  },
+  {
+    "study_id": "GS-US-389-2024",
+    "phase": "P2",
+    "indication": "HBV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Multi-center Study to Evaluate the Safety, Tolerability and Antiviral Activity of GS-9688 in Virally-Suppressed Subjects with Chronic Hepatitis B\n",
+    "product": "GS-9688 Selgantolimod (SLGN)",
+    "samples": 223
+  },
+  {
+    "study_id": "GS-US-389-2025",
+    "phase": "P2",
+    "indication": "HBV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Multi-center Study to Evaluate the Safety, Tolerability and Antiviral Activity of GS-9688 in Viremic Adult Subjects with Chronic Hepatitis B who are not currently on Treatment",
+    "product": "GS-9688 Selgantolimod (SLGN)",
+    "samples": 389
+  },
+  {
+    "study_id": "GS-US-412-2055",
+    "phase": "P3",
+    "indication": "HIV PrEP",
+    "TA": "Virology",
+    "Title": "A Phase 3, Randomized, Double-blind Study to Evaluate the Safety and Efficacy of Emtricitabine and Tenofovir Alafenamide (F/TAF) Fixed-Dose Combination Once Daily for Pre-Exposure Prophylaxis in Men and Transgender Women Who Have Sex with Men and Are At Risk of HIV-1 Infection",
+    "product": "Descovy (DVY)",
+    "samples": 284
+  },
+  {
+    "study_id": "GS-US-405-2064",
+    "phase": "P1",
+    "indication": "HBV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1 Study to Evaluate the Safety, Tolerability, and  Pharmacokinetics  of GS-5801, and the Effect of Food on GS-5801 Pharmacokinetics in Healthy Subjects",
+    "product": "GS-5801 KDM5 Inh",
+    "samples": 274
+  },
+  {
+    "study_id": "GS-US-405-2065",
+    "phase": "P1",
+    "indication": "HBV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1b Study Evaluating the Safety and Tolerability of\nGS-5801 in Patients with Chronic Hepatitis B",
+    "product": "GS-5801 KDM5 Inh",
+    "samples": 985
+  },
+  {
+    "study_id": "GS-US-401-2076",
+    "phase": "P2",
+    "indication": "CLL",
+    "TA": "Hematology/Oncology",
+    "Title": "A Prospective, Randomized, Open-label, Multicenter, Phase 2 Trial to Evaluate the Safety and Efficacy of the Combination of GS-4059 and Entospletinib with and without Obinutuzumab in Subjects with Chronic Lymphocytic Leukemia",
+    "product": "GS-4059 Tirabrutinib (TIRA)",
+    "samples": 261
+  },
+  {
+    "study_id": "GS-US-402-2102",
+    "phase": "P1",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Study to Evaluate Transporter and Cytochrome (CYP) 450-Mediated Drug-Drug Interactions Between GS-9674 and Probe Drugs \n",
+    "product": "GS-9674 Cilofexor (CILO)",
+    "samples": 592
+  },
+  {
+    "study_id": "GS-US-416-2124",
+    "phase": "P2",
+    "indication": "AH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Double-Blind, Randomized Study Evaluating the Safety, Tolerability, and Efficacy of GS-4997 in Combination with Prednisolone versus Prednisolone Alone in Subjects with Severe Alcoholic Hepatitis (AH)",
+    "product": "GS-4997 Selonsertib (SEL)",
+    "samples": 982
+  },
+  {
+    "study_id": "GS-US-402-3885",
+    "phase": "P1",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Open-Label, Parallel-Group, Single-Dose Study to Evaluate the Pharmacokinetics and Pharmacodynamics of GS-9674 in Subjects with Normal Hepatic Function and Mild, Moderate or Severe Hepatic Impairment",
+    "product": "GS-9674 Cilofexor (CILO)",
+    "samples": 374
+  },
+  {
+    "study_id": "GS-US-418-3898",
+    "phase": "P3",
+    "indication": "UC",
+    "TA": "Inflammation/Respiratory",
+    "Title": "Combined Phase 2b/3, Double-Blind, Randomized, Placebo-Controlled Studies Evaluating the Efficacy and Safety  of Filgotinib in the Induction and Maintenance of  Remission in Subjects with Moderately to Severely Active Ulcerative Colitis",
+    "product": "GS-6034 Filgotinib (FIL)",
+    "samples": 536
+  },
+  {
+    "study_id": "GS-US-420-3901",
+    "phase": "P1",
+    "indication": "HIV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1 Randomized, Blinded, Placebo-Controlled, Staggered, Single and Multiple Ascending Dose Study Evaluating the Safety, Tolerability, and Pharmacokinetics of GS-9722 in Healthy Subjects",
+    "product": "GS-9722 Elipovimab (EVM)",
+    "samples": 894
+  },
+  {
+    "study_id": "GS-US-420-3902",
+    "phase": "P1",
+    "indication": "HIV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1 Randomized, Blinded, Placebo-Controlled, Staggered, Single and Multiple Ascending Dose Study Evaluating the Safety, Tolerability, and Pharmacokinetics of GS-9722, Administered Alone or in Combination with Vesatolimod, in Virologically Suppressed HIV Infected Subjects",
+    "product": "GS-9722 Elipovimab (EVM)",
+    "samples": 66
+  },
+  {
+    "study_id": "GS-US-420-3903",
+    "phase": "P1",
+    "indication": "HIV Cure",
+    "TA": "Virology",
+    "Title": "HIV-1 envelope sequence diversity within the latent reservoir in HIV-1 infected individuals initiated on antiretroviral therapy (ARV) during acute and chronic infection",
+    "product": "GS-9722 Elipovimab (EVM)",
+    "samples": 134
+  },
+  {
+    "study_id": "GS-US-417-0301",
+    "phase": "P3",
+    "indication": "RA",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Randomized, Double-blind, Placebo- and Active-controlled, Multicenter, Phase III Study to Assess the Efficacy and Safety of Filgotinib Administered for 52 weeks in Combination with Methotrexate to Subjects with Moderate to Severe Rheumatoid Arthritis who have an Inadequate Response to Methotrexate",
+    "product": "Jyseleca (JYS)",
+    "samples": 464
+  },
+  {
+    "study_id": "GS-US-417-0302",
+    "phase": "P3",
+    "indication": "RA",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A randomized, double-blind, placebo-controlled, multicenter, Phase III study to assess the efficacy and safety of filgotinib administered for 24 weeks in combination with conventional synthetic disease-modifying anti-rheumatic drugs (csDMARDs) to subjects with moderately to severely active Rheumatoid Arthritis who have an inadequate response to biologic DMARD(s) treatment",
+    "product": "Jyseleca (JYS)",
+    "samples": 885
+  },
+  {
+    "study_id": "GS-US-417-0303",
+    "phase": "P3",
+    "indication": "RA",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Randomized, Double-blind, Placebo- and Active-controlled, Multicenter, Phase III Study to Assess the Efficacy and Safety of Filgotinib Administered for 52 Weeks alone and in Combination with Methotrexate (MTX) to Patients with Moderate to Severe Rheumatoid Arthritis Who Are Na<ef>ve to MTX Therapy",
+    "product": "Jyseleca (JYS)",
+    "samples": 662
+  },
+  {
+    "study_id": "GS-US-384-3914",
+    "phase": "P2",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Proof of Concept, Open-Label Study Evaluating the Safety, Tolerability, and Efficacy of Regimens in Subjects with Nonalcoholic Steatohepatitis",
+    "product": "NASH Combination",
+    "samples": 746
+  },
+  {
+    "study_id": "GLPG0634-CL-203",
+    "phase": "P2",
+    "indication": "RA",
+    "TA": "Inflammation/Respiratory",
+    "Title": "Randomized, double-blind, placebo-controlled, multicenter, phase IIb dose finding study of GLPG0634 administered for 24 weeks in combination with methotrexate to subjects with moderately to severely active rheumatoid arthritis who have an inadequate response to methotrexate alone",
+    "product": "Jyseleca (JYS)",
+    "samples": 430
+  },
+  {
+    "study_id": "GLPG0634-CL-204",
+    "phase": "P2",
+    "indication": "RA",
+    "TA": "Inflammation/Respiratory",
+    "Title": "Randomized, double-blind, placebo-controlled, multicenter, phase IIb dose finding study of GLPG0634 administered for 24 weeks as monotherapy to subjects with moderately to severely active rheumatoid arthritis who have an inadequate response to methotrexate alone",
+    "product": "Jyseleca (JYS)",
+    "samples": 178
+  },
+  {
+    "study_id": "GLPG0634-CL-211",
+    "phase": "P2",
+    "indication": "CRD",
+    "TA": "Inflammation/Respiratory",
+    "Title": "Efficacy and Safety of GLPG0634<a0>in Subjects With Active Crohn's Disease",
+    "product": "GS-6034 Filgotinib (FIL)",
+    "samples": 512
+  },
+  {
+    "study_id": "GS-US-382-3961",
+    "phase": "P1",
+    "indication": "HIV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1b, Randomized, Double-Blind, Placebo-controlled Study to Evaluate the Safety and Efficacy of GS-9620 in Antiretroviral Treated HIV-1 Infected Controllers",
+    "product": "GS-9620 Vesatolimod (VES)",
+    "samples": 872
+  },
+  {
+    "study_id": "GS-US-389-3979",
+    "phase": "P1",
+    "indication": "HBV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1 Study in Healthy Volunteers to Evaluate UDP glucuronosyl transferase (UGT) and Cytochrome (CYP) P450 Mediated Drug-Drug Interactions Between GS-9688 and Probe Drugs",
+    "product": "GS-9688 Selgantolimod (SLGN)",
+    "samples": 647
+  },
+  {
+    "study_id": "GS-US-389-3983",
+    "phase": "P1",
+    "indication": "HBV Cure",
+    "TA": "Virology",
+    "Title": "A Phase 1 Open-Label, Parallel-Group, Adaptive, Single-Dose Study to Evaluate the Pharmacokinetics of GS-9688 in Subjects with Normal and Impaired Hepatic Function",
+    "product": "GS-9688 Selgantolimod (SLGN)",
+    "samples": 817
+  },
+  {
+    "study_id": "GS-US-426-3987",
+    "phase": "P1",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Study in Healthy Volunteers to Evaluate the Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of GS-0976",
+    "product": "GS-0976 Firsocostat (FIR)",
+    "samples": 321
+  },
+  {
+    "study_id": "GS-US-426-3988",
+    "phase": "P1",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Open-Label, Parallel-Group, Single-Dose STudy to Evaluate the Pharmacokinetics of GS-0976 or Fenofibrate in Subjects with Normal and Impaired Hepatic Function",
+    "product": "GS-0976 Firsocostat (FIR)",
+    "samples": 283
+  },
+  {
+    "study_id": "GS-US-426-3989",
+    "phase": "P2",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Randomized, Double-Blind, Placebo-Controlled Study Evaluating the Safety, Tolerability, and Efficacy of GS-0976 in Subjects with  Nonalcoholic Steatohepatitis",
+    "product": "GS-0976 Firsocostat (FIR)",
+    "samples": 689
+  },
+  {
+    "study_id": "GS-US-427-4024",
+    "phase": "P2",
+    "indication": "PBC",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Randomized, Double-Blind, Placebo Controlled Study\nEvaluating the Safety, Tolerability, and Efficacy of GS-9674 in\nSubjects with Primary Biliary Cholangitis Without Cirrhosis",
+    "product": "GS-9674 Cilofexor (CILO)",
+    "samples": 937
+  },
+  {
+    "study_id": "GS-US-428-4025",
+    "phase": "P2",
+    "indication": "PSC",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Randomized, Double-Blind, Placebo Controlled Study\nEvaluating the Safety, Tolerability, and Efficacy of GS-9674 in\nSubjects with Primary Sclerosing Cholangitis Without Cirrhosis",
+    "product": "GS-9674 Cilofexor (CILO)",
+    "samples": 963
+  },
+  {
+    "study_id": "GS-US-380-4030",
+    "phase": "P3",
+    "indication": "HIV",
+    "TA": "Virology",
+    "Title": "A Phase 3, Randomized, Double-Blind Study to Evaluate the Safety and Efficacy of Switching from a Regimen of FTC/TAF and Dolutegravir to a FDC of bictegravir/FTC/TAF in HIV 1 Infected Subjects who are Virologically Suppressed",
+    "product": "Biktarvy (BVY)",
+    "samples": 821
+  },
+  {
+    "study_id": "GS-US-426-4074",
+    "phase": "P1",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Study to Evaluate Transporter and Cytochrome (CYP) 450-Mediated Drug-Drug Interactions Between GS-0976 and Probe Drugs \n",
+    "product": "GS-0976 Firsocostat (FIR)",
+    "samples": 53
+  },
+  {
+    "study_id": "GS-US-436-4092",
+    "phase": "P2",
+    "indication": "CLE",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 2, Randomized, Double-blind, Placebo-controlled Study to Assess the Safety and Efficacy of Filgotinib and GS-9876 in Female Subjects with Moderately-to-Severely Active Cutaneous Lupus Erythematosus (CLE)",
+    "product": "GS-9876 Lanraplenib (LANRA)",
+    "samples": 192
+  },
+  {
+    "study_id": "GLPG0634-CL-224",
+    "phase": "P2",
+    "indication": "PsA",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A randomized, double-blind, placebo-controlled, multicenter, Phase II study to assess the efficacy and safety of filgotinib administered for 16 weeks to subjects with moderately to severely active psoriatic arthritis",
+    "product": "GS-6034 Filgotinib (FIL)",
+    "samples": 943
+  },
+  {
+    "study_id": "GLPG0634-CL-223",
+    "phase": "P2",
+    "indication": "AS",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A randomized, double-blind, placebo-controlled, multicenter, Phase II study to assess the efficacy and safety of filgotinib administered for 12 weeks to subjects with active ankylosing spondylitis.",
+    "product": "GS-6034 Filgotinib (FIL)",
+    "samples": 751
+  },
+  {
+    "study_id": "GS-US-445-4189",
+    "phase": "P2",
+    "indication": "SjS",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Randomized, Placebo-controlled, Multicenter, Double-blind, Phase 2 Study to Assess the Safety and Efficacy of Filgotinib, GS-9876 and GS-4059 in Adult Subjects with Active Sjogren\u001as Syndrome",
+    "product": "GS-9876 Lanraplenib (LANRA)",
+    "samples": 32
+  },
+  {
+    "study_id": "GS-US-402-4228",
+    "phase": "P1",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1, Single Dose Study to Evaluate the Pharmacokinetics, Safety, and Tolerability of GS-9674 in Healthy Japanese Subject",
+    "product": "GS-9674 Cilofexor (CILO)",
+    "samples": 378
+  },
+  {
+    "study_id": "GS-US-365-4233",
+    "phase": "P1",
+    "indication": "UC",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Study in Healthy Volunteers to Evaluate the Safety, Tolerability, and Pharmacokinetics of GS-4875, and the Effect of Food and Acid Reducing Agents on GS-4875 Pharmacokinetics",
+    "product": "GS-4875 TPL2 Inh",
+    "samples": 698
+  },
+  {
+    "study_id": "GS-US-174-0102",
+    "phase": "P3",
+    "indication": "HBV",
+    "TA": "Virology",
+    "Title": "A Randomized, Double-Blind, Controlled Evaluation of Tenofovir DF versus Adefovir Dipivoxil for the Treatment of Presumed Pre-Core Mutant Chronic Hepatitis B",
+    "product": "Viread",
+    "samples": 63
+  },
+  {
+    "study_id": "GS-US-174-0103",
+    "phase": "P3",
+    "indication": "HBV",
+    "TA": "Virology",
+    "Title": "A Randomized, Double-Blind, Controlled Evaluation of Tenofovir DF versus Adefovir Dipivoxil for the Treatment of HBeAg Positive Chronic Hepatitis B",
+    "product": "Viread",
+    "samples": 857
+  },
+  {
+    "study_id": "GS-US-378-4303",
+    "phase": "P1",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Study in Healthy Subjects to Evaluate the Safety, Tolerability, and Pharmacokinetics of GS-4793",
+    "product": "GS-4793 ASK1 Inh #2",
+    "samples": 379
+  },
+  {
+    "study_id": "GS-US-454-4315",
+    "phase": "P1",
+    "indication": "NASH",
+    "TA": "Inflammation/Respiratory",
+    "Title": "A Phase 1 Study to Evaluate the Relative Bioavailability and Food Effect of Single Agent Tablets and Fixed Dose Combinations of GS 9674, GS 0976, and/or Selonsertib in Healthy Subjects",
+    "product": "NASH Combination",
+    "samples": 699
+  }
+]
