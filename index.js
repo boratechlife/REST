@@ -25,11 +25,7 @@ const GENE_EXPRESSION = require('./data/GS-US-384-1943-GENE_EXPRESSION.json');
 
 
 
-//TYPE SUMMARY
-app.get('/clinicaldata/summary/typesummary', (req, res) => {
-  console.log('yes');
-  res.json(typesummary);
-});
+
 //BIOMARKER
 app.get('/clinicaldata/summary/:study_id/BIOMARKER', (req, res) => {
   console.log('yes');
@@ -37,9 +33,15 @@ app.get('/clinicaldata/summary/:study_id/BIOMARKER', (req, res) => {
 });
 
 //GENE_EXPRESSION
-app.get('/clinicaldata/summary{study_id}/GENE_EXPRESSION', (req, res) => {
+app.get('/clinicaldata/summary/:study_id/GENE_EXPRESSION', (req, res) => {
   console.log('yes');
   res.json(GENE_EXPRESSION);
+});
+
+//TYPE SUMMARY
+app.get('/clinicaldata/typesummary', (req, res) => {
+  console.log('yes');
+  res.json(typesummary);
 });
 
 app.get('/clinicaldata/study/:study_id/biomarkers', (req, res) => {
